@@ -54,7 +54,7 @@ cd sha256_kriptografi_4F
 
 **2. Jalankan program**
 ```bash
-python3 sha256_login_andi_akbar_03.py
+python3 sha256_login_testing.py
 ```
 
 ---
